@@ -2,7 +2,8 @@
   "name": "pixi.js-driver",
   "version": "1.0.0",
   "description": "A simple project for getting started with TypeScript in cycle.js, using Webpack",
-  "main": "index.js",
+  "main": "./lib/init.js",
+  "typings": "./lib/init.d.ts",
   "scripts": {
     "watch-lib": "tsc -p app.tsconfig.json --watch",
     "watch-test": "webpack --cache --display-error-details --watch",
@@ -18,7 +19,7 @@
   "keywords": [
     "typescript",
     "cyclejs",
-    "web workers"
+    "pixi.js"
   ],
   "author": "Dmitrij Bozhkov",
   "dependencies": {
