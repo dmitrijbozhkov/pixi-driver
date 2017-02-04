@@ -2,7 +2,7 @@ var path = require("path");
 module.exports = {
     context: path.resolve(__dirname, "tests"),
     entry: {
-        dummy: "./src/dummy.test.ts"
+        bundle: "./src/bundle.test.ts"
     },
     output: {
         path: path.resolve(__dirname, "tests", "app"),

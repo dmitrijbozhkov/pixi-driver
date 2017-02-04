@@ -1,1 +1,1 @@
-export declare function kek(): void;
+export * from "./makePixiDriver";

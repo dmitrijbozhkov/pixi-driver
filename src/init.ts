@@ -1,5 +1,1 @@
-import xs from "xstream";
-
-export function kek(): void {
-    console.log("kek");
-}
+export * from "./makePixiDriver";
