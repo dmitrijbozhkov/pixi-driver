@@ -1,1 +1,2 @@
-export * from "./makePixiDriver";
+export * from "./makeLoaderDriver";
+export * from "./LoaderHandler";

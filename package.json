@@ -1,7 +1,7 @@
 {
-  "name": "pixi.js-driver",
+  "name": "pixi-driver",
   "version": "1.0.0",
-  "description": "A simple project for getting started with TypeScript in cycle.js, using Webpack",
+  "description": "Cycle.js driver for pixi.js",
   "main": "./lib/init.js",
   "typings": "./lib/init.d.ts",
   "scripts": {

@@ -18,6 +18,5 @@ module.exports = {
                 loader: "mocha!ts-loader"
             }
         ]
-    },
-    devtool: "source-map"
+    }
 }
