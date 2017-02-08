@@ -23,6 +23,7 @@
   ],
   "author": "Dmitrij Bozhkov",
   "dependencies": {
+    "blob": "0.0.4",
     "pixi.js": "^4.3.3",
     "xstream": "^5.2.0"
   },
