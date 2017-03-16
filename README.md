@@ -1,5 +1,4 @@
-#Pixi.js driver for cycle.js
-## TODO:
-- Implement loader api
-- Create container api
-- Handle sprite events
+# Pixi.js driver for cycle.js
+## Tasks done:
+- Implemented loader api
+- Implemented sound managing
